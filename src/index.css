@@ -79,3 +79,19 @@ button:disabled {
 .error {
   color: red;
 }
+
+.user {
+  display: inline-block;
+  width: 200px;
+  padding: 10px;
+  margin: 10px 0px 0 10px;
+  text-align: center;
+  border: 1px solid;
+}
+.user-name {
+  padding: 10px;
+  border-bottom: 1px solid;
+}
+.user-games {
+  padding: 10px;
+}
